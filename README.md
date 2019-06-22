@@ -1,2 +1,2 @@
 # Face-Recognition-Web-Application
-A smart signup/login system that uses your face instead of passwords.
+Face detection and recognition using openCV and a pre-trained FaceNet.
